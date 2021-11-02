@@ -1,0 +1,2 @@
+# adblock
+Block your ads.
