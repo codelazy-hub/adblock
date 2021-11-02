@@ -17,3 +17,6 @@ Linux - Does not work as of now, use a browser plugin.
 macOS - AdGuard - Does not work with us as of now.
 
 
+
+# Copyright
+We are not affilated with Apple, Microsoft, or Linux at any cost.
